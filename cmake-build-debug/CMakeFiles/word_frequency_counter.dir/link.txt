@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/word_frequency_counter.dir/main.c.o -o word_frequency_counter 

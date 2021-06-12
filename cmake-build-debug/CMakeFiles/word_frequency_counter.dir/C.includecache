@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/symfony/Documents/Personal/CodeCamp/stuffs/cProg/word-frequency-counter/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdbool.h
+-
+
